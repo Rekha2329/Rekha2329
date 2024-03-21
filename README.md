@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rekha2329
-- 🌱 I’m currently learning Programming in java
+- 👋 Hi, I’m Rekha 
+- 🌱 I’m currently persuing in Shridevi institute of engineering and Technology Tumkur
 - 📫 How to reach me ..rekhakencharaddi911@gmail.com
 
-
+Skills : Java, html, Web development 
